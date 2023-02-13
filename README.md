@@ -1,9 +1,6 @@
 
 
 ### Hi there! 🖖  
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
   
 
 ### <div align="center">Soy Gabriela, full-stack developer dispuesta a dar lo mejor 💪  Llevo aprendiendo cada día de este mundo desde 2022 y contando 🛸</div>  
@@ -25,7 +22,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="50%">
+<table  align="center"><tr><td valign="top" width="50%">
 
 
 
