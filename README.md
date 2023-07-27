@@ -1,6 +1,6 @@
 
 
-### Hi there! 🖖  
+### Un gusto conocerte!! 🖖  
   
 
 ### <div align="center">Soy Gabriela, full-stack developer dispuesta a dar lo mejor 💪  Llevo aprendiendo cada día de este mundo desde 2022 y contando 🛸</div>  
@@ -18,6 +18,11 @@
 - 🤪 Fun fact: estudie comunicación social y ahora aprendo código para hablar con las PC's   
 
   -------------------------------------------------------------------------------------------------
+
+
+  ### <div align="left">Now in English...</div>
+
+  ### Hi there! 🖖  
 
 ### <div align="center">I'm Gabriela, full-stack developer ready to give my best 💪 I've been learning every day in this world since 2022 and counting 🛸</div>  
   
