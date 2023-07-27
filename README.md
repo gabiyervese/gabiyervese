@@ -6,7 +6,7 @@
 ### <div align="center">Soy Gabriela, full-stack developer dispuesta a dar lo mejor 💪  Llevo aprendiendo cada día de este mundo desde 2022 y contando 🛸</div>  
   
 
-- 👾 Actualmente estoy trabajando en mi proyecto final de Hack A Boss  
+- 👾 Actualmente estoy trabajando como interna en Swippe Job.
   
 
 - 🌱Constantemente estoy ejercitando lo aprendido para desempeñarme en full-stack, siempre hay algo nuevo que aprender.  
@@ -16,7 +16,18 @@
   
 
 - 🤪 Fun fact: estudie comunicación social y ahora aprendo código para hablar con las PC's   
+
+  -------------------------------------------------------------------------------------------------
+- 👾 I am currently working as an intern at Swippe Job.
   
+
+- 🌱I am constantly exercising what I have learned to perform in full-stack, there is always something new to learn.  
+  
+
+- 🤖 I think teamwork is fundamental to turn amazing projects into reality.  
+  
+
+- 🤪 Fun fact: I studied social communication and now I'm learning code to talk to PCs.   
 
 <br/>  
 
