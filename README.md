@@ -6,7 +6,7 @@
 ### <div align="center">Soy Gabriela, full-stack developer dispuesta a dar lo mejor 💪  Llevo aprendiendo cada día de este mundo desde 2022 y contando 🛸</div>  
   
 
-- 👾 Actualmente estoy trabajando como interna en Swippe Job.
+- 👾 Actualmente estoy trabajando como Analista de desarrollo Junior en SIGIS.
   
 
 - 🌱Constantemente estoy ejercitando lo aprendido para desempeñarme en full-stack, siempre hay algo nuevo que aprender.  
@@ -26,7 +26,7 @@
 
 ### <div align="center">I'm Gabriela, full-stack developer ready to give my best 💪 I've been learning every day in this world since 2022 and counting 🛸</div>  
   
-- 👾 I am currently working as an intern at Swippe Job.
+- 👾 I am currently working as an Junior Development Analyst at Sigis.
   
 
 - 🌱I am constantly exercising what I have learned to perform in full-stack, there is always something new to learn.  
